@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+* {
+    box-sizing: border-box;
+}
+#btn {
+    background-color: teal;
+    border-color: transparent;
+    color:yellow;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    font-size: 32px;
+
+    position: fixed;
+    bottom: 22px;
+    right: 22px;
+    cursor: pointer;
+    
+}
+
+.form-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+}
+
+.form-container {
+  
+    max-width: 300px;
+    padding: 20px;
+    background-color: bisque;
+}
+
+input,textarea {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: transparent;
+}
+
+textarea {
+    resize: none;
+
+}
+
+
+.active {
+    display: block;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/* .accordion {
+    width: 100%;
+    height: 70px;
+    background-color: #000;
+    color:#fff;
+    font-size: 30px;
+    text-align: left;
+    cursor: pointer;
+}
+
+.panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: .9s ease;
+
+} */
